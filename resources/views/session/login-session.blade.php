@@ -12,7 +12,7 @@
                                     <h3 class="font-weight-bolder text-info text-gradient">Welcome back</h3>
                                 </div>
                                 <div class="card-body">
-                                    <form role="form" method="POST" action="/session">
+                                    <form role="form" method="POST" action="session">
                                         @csrf
                                         <label>Email</label>
                                         <div class="mb-3">
