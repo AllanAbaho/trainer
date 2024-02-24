@@ -16,4 +16,3 @@
         {{-- @include('layouts.footers.guest.footer') --}}
     @endif
 @endsection
-\
